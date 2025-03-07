@@ -1,3 +1,14 @@
+# Evitar logs e credenciais
+*.log
+*.csv
+*.json
+*.parquet
+*.pem
+*.key
+*.credentials
+
+# Bloquear dados brutos do S3
+Amazon S3/Buckets/
 # Ignorar arquivos sensíveis
 *.csv
 *.parquet
