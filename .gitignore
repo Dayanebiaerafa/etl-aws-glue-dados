@@ -1,7 +1,0 @@
-# Ignorar arquivos sensíveis
-*.csv
-*.parquet
-*.json
-aws-credentials.json
-secrets.env
-
